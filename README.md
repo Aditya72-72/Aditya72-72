@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Gavate</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Software Developer and Data Enthusiast from India</h3>
 
 <img align="right" alt="coding" width="300" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
