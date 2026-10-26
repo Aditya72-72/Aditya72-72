@@ -27,7 +27,7 @@ AWS EC2 • AWS S3 • Git • GitHub • Azure
 ## 🤝 Let's Connect
 
 - 📧 Email: adityagavate@gmail.com
-- 💼 LinkedIn: [Profile Link](www.linkedin.com/in/aditya-gavate-ag7272)
+- 💼 LinkedIn: [Aditya Gavate LinkedIn Profile](https://www.linkedin.com/in/aditya-gavate-ag7272)
 - 🌐 Portfolio: [Portfolio Link](https://github.com)
 
 Thanks for visiting! If you're interested in Data Engineering, Python or feel free to connect or check out my projects.
