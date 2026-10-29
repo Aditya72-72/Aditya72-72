@@ -10,7 +10,6 @@ I'm a Data Engineer at **Cognizant** passionate about building scalable data pla
 - ❄️ Building modern data platforms and managing enterprise batch workflows
 - ⚡ Designing robust data pipelines and database architectures
 - 🤖 Exploring Data Engineering, Python, and AI automation
-- 🌐 Experienced in software development and full-stack workflows
 - 📝 Regularly exploring new concepts in data engineering and system optimization
 
 ## 🛠️ Tech Stack
